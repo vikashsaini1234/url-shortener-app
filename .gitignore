@@ -1,0 +1,38 @@
+# Java class and archive files
+*.class
+*.jar
+*.war
+*.ear
+
+# Build directories
+/classes/
+/target/
+/bin/
+/out/
+/build/
+/test-classes/
+
+# Log files
+*.log
+logs/
+
+# IDE configurations
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Node dependencies
+node_modules/
+
+# Code coverage and reports
+/coverage/
+/jacoco.exec
+
+# Environment variables
+.env
